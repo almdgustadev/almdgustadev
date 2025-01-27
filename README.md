@@ -1,4 +1,4 @@
-## Fala galera, Me chamo Gustavo de Almeida👋
+## Fala galera, me chamo Gustavo de Almeida👋
 
 ![Almdgusta's GitHub stats](https://github-readme-stats.vercel.app/api?username=almdgustadev&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almdgustadev&layout=compact&theme=dark)
